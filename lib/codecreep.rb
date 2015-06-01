@@ -1,5 +1,9 @@
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 
+GH_USER=TK2Day GH_PASS=fofseij ruby lib/codecreep.rb
+
+
+
 require 'pry'
 
 require 'codecreep/init_db'
